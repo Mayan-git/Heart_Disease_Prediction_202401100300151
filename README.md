@@ -1,5 +1,3 @@
-# Heart_Disease_Prediction_202401100300151
-
 # ❤ Heart Disease Prediction Using Machine Learning
 
 This project builds a classification model to predict the presence of heart disease in patients using medical parameters. It uses a Logistic Regression model trained on a public dataset from Kaggle.
